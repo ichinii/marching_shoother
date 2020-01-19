@@ -1,0 +1,7 @@
+/build/
+/obj/
+/bin
+/bin_debug
+local/
+/.bam/
+compile_commands.json
